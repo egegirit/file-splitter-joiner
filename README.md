@@ -19,7 +19,7 @@ File Splitter and Joiner is a Python program that allows you to split large file
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/file-splitter-joiner.git
+   git clone https://github.com/ege-girit/file-splitter-joiner.git
    ```
 
 2. Install the required dependencies:
