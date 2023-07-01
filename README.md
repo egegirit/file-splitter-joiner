@@ -1,6 +1,6 @@
 # File Splitter and Joiner
 
-File Splitter and Joiner is a Python program that allows you to split large files into smaller chunks and join them back together. With a simple GUI, you can select the file to split, specify the desired size of the chunks (in MB), and choose the output folder for the split files. Similarly, you can select the first split file to join and specify the output folder for the joined file.
+File Splitter and Joiner is a Python program that allows you to split large files into smaller chunks and join them back together. With a simple GUI, you can select the file to split, specify the desired size of the chunks (in MB), and choose the output folder for the split files. Similarly, you can select the first split file to join and specify the output folder for the joined file. I added an example image so that you can try the program yourself.
 
 ## Features
 
